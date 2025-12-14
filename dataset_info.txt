@@ -1,0 +1,19 @@
+Dataset Name: Movie Streaming SQL Dataset
+
+Source:
+Practice / self-created dataset for SQL analysis
+
+Tables Included:
+- genres
+- movies
+- ratings
+- users
+- subscriptions
+
+Description:
+This dataset represents a movie streaming platform.
+It was used to practice SQL data analysis concepts such as joins,
+aggregations, subqueries, views, and indexing.
+
+Note:
+The full dataset is not uploaded to GitHub to keep the repository lightweight.
